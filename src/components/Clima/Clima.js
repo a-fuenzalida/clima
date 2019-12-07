@@ -8,7 +8,8 @@ import {
   Drizzle,
   Rain,
   Snow,
-  Thunderstorm
+  Thunderstorm,
+  Other
 } from '../../assets/svgClima';
 import Cargando from '../UI/Cargando';
 
@@ -91,7 +92,7 @@ const Clima = props => {
                 <Detalles>
                   
                 </Detalles>
-                <Imagen src={svg[props.data.weather[0].main]} />
+                <Imagen src={svg[props.data.weather[0].main] ? svg[props.data.weather[0].main] : Other} />
                 <Temperatura>{Math.round(props.data.main.temp)}°</Temperatura><br/>
                 <strong>{props.data.name}</strong><br/>
                 {props.data.main.humidity}% de humedad<br/><br/>

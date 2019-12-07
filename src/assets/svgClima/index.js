@@ -6,3 +6,4 @@ export const Drizzle = require('./Drizzle.svg');
 export const Rain = require('./Rain.svg');
 export const Snow = require('./Snow.svg');
 export const Thunderstorm = require('./Thunderstorm.svg');
+export const Other = require('./Other.svg');
