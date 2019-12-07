@@ -13,11 +13,6 @@ import {
 import Cargando from '../UI/Cargando';
 
 const StyledClima = styled.main`
-  background-image: url('assets/background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-position: bottom;
   position: relative;
   height: 60vh;
   width: 100%;

@@ -36,7 +36,7 @@ const App = () => {
   const obtenerClima = ciudad => {
     setCargando(true);
     // Obtenemos el clima actual de la ciudad
-    axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&units=metric&appid=39c2a9360995f8ac660c3f1171870df9`)
+    axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&units=metric&appid=39c2a9360995f8ac660c3f1171870df9`)
     .then(response => {
       setClimaActual(response.data);
       setError(null);
