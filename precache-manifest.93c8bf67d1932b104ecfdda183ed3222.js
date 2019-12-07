@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98cd59e617490d8761a9788ab03f3663",
+    "revision": "aa9a6006874a9a09e2f09e37c3b44d87",
     "url": "/clima/index.html"
   },
   {
-    "revision": "9c840478e8af0c573a1d",
+    "revision": "65b240a8d1a10967f8b0",
     "url": "/clima/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clima/static/js/2.49af0c32.chunk.js.LICENSE"
   },
   {
-    "revision": "9c840478e8af0c573a1d",
-    "url": "/clima/static/js/main.9638b3ae.chunk.js"
+    "revision": "65b240a8d1a10967f8b0",
+    "url": "/clima/static/js/main.21c74558.chunk.js"
   },
   {
     "revision": "df1c1c8ea8193d3bfd76",
