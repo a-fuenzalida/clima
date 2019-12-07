@@ -60,12 +60,6 @@ const Logotipo = styled.img`
   }
 `;
 
-const Detalles = styled.div`
-  text-align: left;
-  font-size: 0.9em;
-  position: absolute;
-`;
-
 const hora = new Date().getHours();
 
 const svg = {
@@ -89,9 +83,6 @@ const Clima = props => {
             props.cargando ? <Cargando/> :
               props.data ?
               <>
-                <Detalles>
-                  
-                </Detalles>
                 <Imagen src={svg[props.data.weather[0].main] ? svg[props.data.weather[0].main] : Other} />
                 <Temperatura>{Math.round(props.data.main.temp)}°</Temperatura><br/>
                 <strong>{props.data.name}</strong><br/>
