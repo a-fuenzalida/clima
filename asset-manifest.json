@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clima/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/clima/static/js/main.935b6a59.chunk.js",
-    "main.js.map": "/clima/static/js/main.935b6a59.chunk.js.map",
+    "main.js": "/clima/static/js/main.b6a206f9.chunk.js",
+    "main.js.map": "/clima/static/js/main.b6a206f9.chunk.js.map",
     "runtime-main.js": "/clima/static/js/runtime-main.f845c372.js",
     "runtime-main.js.map": "/clima/static/js/runtime-main.f845c372.js.map",
     "static/js/2.49af0c32.chunk.js": "/clima/static/js/2.49af0c32.chunk.js",
     "static/js/2.49af0c32.chunk.js.map": "/clima/static/js/2.49af0c32.chunk.js.map",
     "index.html": "/clima/index.html",
-    "precache-manifest.148cb3d2e7ec753de227160e00b01504.js": "/clima/precache-manifest.148cb3d2e7ec753de227160e00b01504.js",
+    "precache-manifest.e825849279df3d9745b4b37afdecd5ea.js": "/clima/precache-manifest.e825849279df3d9745b4b37afdecd5ea.js",
     "service-worker.js": "/clima/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/clima/static/css/main.d498bfb3.chunk.css.map",
     "static/js/2.49af0c32.chunk.js.LICENSE": "/clima/static/js/2.49af0c32.chunk.js.LICENSE",
@@ -17,6 +17,7 @@
     "static/media/CloudsDay.svg": "/clima/static/media/CloudsDay.3582b69f.svg",
     "static/media/CloudsNight.svg": "/clima/static/media/CloudsNight.2d1dd239.svg",
     "static/media/Drizzle.svg": "/clima/static/media/Drizzle.3fde5592.svg",
+    "static/media/Other.svg": "/clima/static/media/Other.9c68cebd.svg",
     "static/media/Rain.svg": "/clima/static/media/Rain.cd97be30.svg",
     "static/media/Snow.svg": "/clima/static/media/Snow.58961232.svg",
     "static/media/Thunderstorm.svg": "/clima/static/media/Thunderstorm.886fe4ff.svg"
@@ -25,6 +26,6 @@
     "static/js/runtime-main.f845c372.js",
     "static/js/2.49af0c32.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.935b6a59.chunk.js"
+    "static/js/main.b6a206f9.chunk.js"
   ]
 }

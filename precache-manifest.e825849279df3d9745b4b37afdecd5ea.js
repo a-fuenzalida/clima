@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96cf6d62e28d591d195864b39fc27681",
+    "revision": "eefcaafa4fe094fc00431bf121fb4609",
     "url": "/clima/index.html"
   },
   {
-    "revision": "5092dde1f35568644829",
+    "revision": "cdb68e1070ccd6960aad",
     "url": "/clima/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clima/static/js/2.49af0c32.chunk.js.LICENSE"
   },
   {
-    "revision": "5092dde1f35568644829",
-    "url": "/clima/static/js/main.935b6a59.chunk.js"
+    "revision": "cdb68e1070ccd6960aad",
+    "url": "/clima/static/js/main.b6a206f9.chunk.js"
   },
   {
     "revision": "df1c1c8ea8193d3bfd76",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fde5592050adeb2a8956c2df809ccba",
     "url": "/clima/static/media/Drizzle.3fde5592.svg"
+  },
+  {
+    "revision": "9c68cebdb64b4559e5a87b49f70ec783",
+    "url": "/clima/static/media/Other.9c68cebd.svg"
   },
   {
     "revision": "cd97be3071367a0b045392b9e92a6be8",
